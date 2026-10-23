@@ -61,7 +61,7 @@
         "nx": "^22.7.6",
         "tsx": "^4.23.0",
         "typescript": "~5.9.3",
-        "vite": "^7.3.6",
+        "vite": "^7.3.7",
         "vite-tsconfig-paths": "^6.1.1"
     },
     "files": [
