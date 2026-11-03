@@ -28,7 +28,7 @@
         "@canton-network/core-wallet-auth": "workspace:^",
         "openapi-fetch": "^0.17.0",
         "uuid": "^14.0.1",
-        "zod": "^4.4.3"
+        "zod": "^4.6.6"
     },
     "devDependencies": {
         "@vitest/browser-playwright": "^4.1.10",

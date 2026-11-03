@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "@canton-network/core-wallet-auth": "workspace:^",
-        "zod": "^4.4.3"
+        "zod": "^4.6.6"
     },
     "devDependencies": {
         "@vitest/browser-playwright": "^4.1.10",

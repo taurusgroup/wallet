@@ -42,7 +42,7 @@
         "openapi-ts-router": "^0.4.1",
         "openapi-typescript-helpers": "^0.1.0",
         "tsdown": "^0.22.12",
-        "zod": "^4.4.3"
+        "zod": "^4.6.6"
     },
     "files": [
         "dist/**"

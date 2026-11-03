@@ -1597,7 +1597,7 @@ __metadata:
     tsdown: "npm:^0.22.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -1621,7 +1621,7 @@ __metadata:
     tweetnacl-util: "npm:^0.15.1"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -1663,7 +1663,7 @@ __metadata:
     tweetnacl-util: "npm:^0.15.1"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -1723,7 +1723,7 @@ __metadata:
     typescript: "npm:^5.9.3"
     umzug: "npm:^3.8.3"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -1741,7 +1741,7 @@ __metadata:
     typescript: "npm:^5.9.3"
     uuid: "npm:^14.0.1"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -1787,7 +1787,7 @@ __metadata:
     tslib: "npm:^2.8.1"
     typescript: "npm:^5.9.3"
     uuid: "npm:^14.0.0"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -1840,7 +1840,7 @@ __metadata:
     tslib: "npm:^2.8.1"
     typescript: "npm:^5.9.3"
     uuid: "npm:^14.0.1"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -1898,7 +1898,7 @@ __metadata:
     typescript: "npm:^5.9.3"
     uuid: "npm:^14.0.1"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -1915,7 +1915,7 @@ __metadata:
     tsdown: "npm:^0.22.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -1989,7 +1989,7 @@ __metadata:
     tsdown: "npm:^0.22.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -2017,7 +2017,7 @@ __metadata:
     typescript: "npm:^5.9.3"
     umzug: "npm:^3.8.3"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -2032,7 +2032,7 @@ __metadata:
     tsdown: "npm:^0.22.9"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -2220,7 +2220,7 @@ __metadata:
     uuid: "npm:^14.0.1"
     vite: "npm:^7.3.6"
     vite-tsconfig-paths: "npm:^6.1.1"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -2243,7 +2243,7 @@ __metadata:
     tsx: "npm:^4.23.1"
     typescript: "npm:^5.9.3"
     vitest: "npm:^4.1.8"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   languageName: unknown
   linkType: soft
 
@@ -2385,7 +2385,7 @@ __metadata:
     vite: "npm:^7.3.6"
     vite-express: "npm:^0.22.1"
     vitest: "npm:^4.1.10"
-    zod: "npm:^4.4.3"
+    zod: "npm:^4.6.6"
   bin:
     wallet-gateway: dist/index.js
     wallet-gateway-remote: dist/index.js
@@ -21163,5 +21163,12 @@ __metadata:
   version: 4.4.3
   resolution: "zod@npm:4.4.3"
   checksum: 10c0/7ea31b558e88f9faf44f31dd185e2e1cbf51fed3081787fb96cc2534749b50c0acfc6da7f0922a7353ed092dd358c7d50c28ea96c94d04af64191bd33152eca3
+  languageName: node
+  linkType: hard
+
+"zod@npm:^4.6.6":
+  version: 4.6.6
+  resolution: "zod@npm:4.6.6"
+  checksum: 10c0/447a3113bb743c54ab839213ff95e9e8c197cc1206f65270c18aac35aa70c47a5c8cab753be911b574df9a8a9801ea74ed6be776575232cae0084e51dab3e970
   languageName: node
   linkType: hard
