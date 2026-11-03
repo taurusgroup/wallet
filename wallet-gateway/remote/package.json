@@ -71,7 +71,7 @@
         "uuid": "^14.0.1",
         "vite": "^7.3.6",
         "vite-express": "^0.22.1",
-        "zod": "^4.4.3"
+        "zod": "^4.6.6"
     },
     "devDependencies": {
         "@canton-network/core-wallet-store-inmemory": "workspace:^",
